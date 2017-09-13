@@ -1,0 +1,57 @@
+.title{
+	font-size: 35px;
+	text-align: center;
+}
+.FechaCiudad{
+	position: absolute;
+	idth:250px;
+	top: 160px;
+}
+.FechaInicioFin{
+	width:300px;
+	position: absolute;
+	right: 10px;
+	top: 160px;
+}
+
+.tableDatosAprendiz{
+	position: absolute;
+	top: 300px;
+	width: 500px;
+	height: 300px;
+}
+.tableDatosEmpresa{
+	position: absolute;
+	top: 300px;
+	right: 10px;
+	width: 500px;
+	height: 300px;
+}
+.tableActividades{
+	position: absolute;
+	top: 630px;
+	width: 1000px;
+}
+.observaciones{
+	position: absolute;
+	top: 830px;
+	width: 1000px;
+}
+.textObservaciones{
+	
+	position: relative;
+	width: 700px;
+	height: 200px;
+}
+.anexos{
+	
+	position: absolute;
+	top: 1050px;
+	width: 1000px;
+}
+.btn{
+	position: absolute;
+	top: 1120px;
+
+
+}
